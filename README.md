@@ -1,12 +1,12 @@
 # Atlant_reborn
-Переделка советского холодильника "Атлант" под современное управление с помощью МК, датчиков OneWire DS18B20, блока реле и дисплея с парой кнопок. Проект реализован, исходные файлы предоставляются As-Ist 
+A conversion of a Soviet Atlant refrigerator to modern control using an MC, OneWire DS18B20 sensors, a relay unit and a display with a couple of buttons. Project implemented, source files are provided by As-Ist
 
-<h3>Сохранившиеся фотографии:</h3>
-Прототип:
+<h3>Survived photographs:</h3>
+Prototype:
 <img src="./prototype.jpg">
 
-Собранная схема:
+The assembled circuit:
 <img src="./in_assembling.jpg">
 
-Готовое устройство:
+Ready-made device:
 <img src="./finished.jpg">
